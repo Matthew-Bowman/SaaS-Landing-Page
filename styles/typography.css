@@ -1,0 +1,93 @@
+h1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 56px;
+    line-height: 130%;
+    letter-spacing: 0;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 48px;
+    line-height: 130%;
+    letter-spacing: 0;
+    font-weight: 600;
+}
+
+h3 {
+    font-family: "Poppins", sans-serif;
+    font-size: 44px;
+    line-height: 140%;
+    letter-spacing: 0;
+    font-weight: 600;
+}
+
+h4 {
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
+    line-height: 140%;
+    letter-spacing: 0;
+    font-weight: 600;
+}
+
+h5 {
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    line-height: 160%;
+    letter-spacing: 0;
+    font-weight: 600;
+}
+
+.typo-p1 {
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    line-height: 180%;
+    letter-spacing: 0;
+    font-weight: 400;
+}
+
+.typo-p2 {
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    line-height: 180%;
+    letter-spacing: 0;
+    font-weight: 700;
+}
+
+.typo-p3 {
+    font-family: 'Nunito Sans';
+    font-size: 18px;
+    line-height: 180%;
+    letter-spacing: 0;
+    font-weight: 400;
+}
+
+.typo-p4 {
+    font-family: 'Nunito Sans';
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0;
+    font-weight: 700;
+}
+
+/* Colours */
+
+.typo-c-primary {
+    color: var(--var-colour-primary-purple);
+}
+
+.typo-c-brightGrey {
+    color: var(--var-colour-text-brightGray);
+}
+.typo-c-purpleHaze {
+    color: var(--var-colour-text-purpleHaze);
+}
+.typo-c-midGrey {
+    color: var(--var-colour-text-midGrey);
+}
+.typo-c-white {
+    color: var(--var-colour-text-white);
+}
+.typo-c-dark {
+    color: var(--var-colour-text-dark);
+}
